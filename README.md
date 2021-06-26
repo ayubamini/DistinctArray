@@ -19,8 +19,8 @@ Write an efficient algorithm for the following assumptions:
 
 # Both Algoritm with same efficiency
      
-     * JavaScript built-in sort 
-     * Hands-on Quick sort
+     * JavaScript built-in sort (main.js)
+     * Hands-on Quick sort (hands-on.sort.js)
 
 # Analysis summary
 ![alt text](https://github.com/ayubamini/DistinctArray/blob/master/codility-score.PNG) 
