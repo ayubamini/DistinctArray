@@ -17,6 +17,11 @@ Write an efficient algorithm for the following assumptions:
     N is an integer within the range [0..100,000];
     each element of array A is an integer within the range [−1,000,000..1,000,000].
 
+# Both Algoritm with same efficiency
+     
+     * JavaScript built-in sort 
+     * Hands-on Quick sort
+
 # Analysis summary
 ![alt text](https://github.com/ayubamini/DistinctArray/blob/master/codility-score.PNG) 
 ![alt text](https://github.com/ayubamini/DistinctArray/blob/master/codility-analyse.PNG) 
